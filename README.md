@@ -1,0 +1,4 @@
+pyTeXshell
+==========
+
+(La)Tex shell
